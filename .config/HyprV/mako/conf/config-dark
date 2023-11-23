@@ -1,0 +1,8 @@
+# Colors
+
+background-color=#2d2d2d
+text-color=#ffffff
+progress-color=over #414559
+border-color=#d5b758
+border-radius=6
+font= jetbrains_mono_NF
