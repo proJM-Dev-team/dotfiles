@@ -1,12 +1,8 @@
-background-color=#282a36
-text-color=#44475a
-border-color=#282a36
+# Colors
 
-[urgency=low]
-border-color=#282a36
-
-[urgency=normal]
-border-color=#f1fa8c
-
-[urgency=high]
-border-color=#ff5555
+background-color=#1A1A1A
+text-color=#ffffff
+progress-color=over #414559
+border-color=#d5b758
+border-radius=6
+font= jetbrains_mono_NF
